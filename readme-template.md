@@ -3,11 +3,11 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/<YOUR REPO>/awesome-<YOUR TOOL>/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome Sanskrit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/epicfaace/awesome-sanskrit/workflows/Lint%20Awesome%20List/badge.svg)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+Good resources for Sanskrit
 
 <!-- image -->
 
@@ -17,7 +17,7 @@ A template for an awesome list with required conventions out of the box!
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+Sanskrit is a language.
 
 </div>
 
@@ -53,7 +53,7 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+<!-- [Thanks goes to these contributors](https://github.com/epicfaace/awesome-sanskrit/graphs/contributors)! -->
 
 ## License
 
