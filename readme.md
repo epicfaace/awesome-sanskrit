@@ -47,6 +47,7 @@ Sanskrit is a language.
 - [Sanskrit Stotra Translations by P. R. Kannan](https://sanskritdocuments.org/sites/prkannan/)
 - [Sacred Texts](https://www.sacred-texts.com/hin/m01/m01002.htm) - Many English translations for Mahabharata, etc.
 - [hinduscriptures.in](https://www.hinduscriptures.in/scriptures/itihaas/mahabharat/text-with-translation/vol-i/chapter-01/topic-1) - In addition to other texts, this has a verse-by-verse translation of the Mahabharata.
+- [dwaipayana.net](http://www.dvaipayana.net/) - Has resources about many texts including Harivamsa.
 
 ## Dictionaries
 - [Monier-Williams](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php) - Online Monier-Williams Sanskrit-English Dictionary, 1899
