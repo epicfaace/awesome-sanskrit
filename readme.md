@@ -25,19 +25,31 @@ Sanskrit is a language.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Original text only](#featured-new-releases)
+- [Text with translations](#section-1)
+- [Dictionaries](#dictionaries)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Original text only
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Stotra Nidhi](https://stotranidhi.com/en/stotras-list-english/)
+- [Mahabharata critical edition](https://bombay.indology.info/mahabharata/welcome.html) - Electronic tradition of critical edition of the Mahabharata (compiled by BORI)
+- [Mahabharata with Bhavadipa commentary of Nilakantha](https://archive.org/details/mahAbhArata-Bhavadipa-Nilakantha/9000/page/n7/mode/2up)
+- [Digital Corpus of Sanskrit](http://www.sanskrit-linguistics.org/dcs/index.php) - a Sandhi-split corpus of Sanskrit texts with full morphological and lexical analysis.
+- [Mahabharata Resources](http://www.mahabharata-resources.org/)
+- [The Mahabharata (Southern Recension), critically edited by P.P.S. Sastri](https://archive.org/details/mahAbhArata-southern-critical-PPS-shAstri/ppssastri-01-adiparva-part1/page/n159/mode/2up)
 
-## Section 1
+## Text with translations
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [IITK supersites](https://www.heritage.iitk.ac.in/) - Text, translations, commentaries from Gita, Upanishads, etc.
+- [Sanskrit Stotra Translations by P. R. Kannan](https://sanskritdocuments.org/sites/prkannan/)
+- [Sacred Texts](https://www.sacred-texts.com/hin/m01/m01002.htm) - Many English translations for Mahabharata, etc.
+- [hinduscriptures.in](https://www.hinduscriptures.in/scriptures/itihaas/mahabharat/text-with-translation/vol-i/chapter-01/topic-1) - In addition to other texts, this has a verse-by-verse translation of the Mahabharata.
+
+## Dictionaries
+- [Monier-Williams](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php) - Online Monier-Williams Sanskrit-English Dictionary, 1899
 
 <!-- END CONTENT -->
 
@@ -53,7 +65,7 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/epicfaace/awesome-sanskrit/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/epicfaace/awesome-sanskrit/graphs/contributors)
 
 ## License
 
