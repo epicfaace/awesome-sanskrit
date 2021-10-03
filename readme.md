@@ -25,12 +25,18 @@ Sanskrit is a language.
 
 ## Contents
 
+- [Text databases](#text-databases)
 - [Original text only](#featured-new-releases)
 - [Text with translations](#section-1)
 - [Dictionaries](#dictionaries)
 - [Follow](#follow)
 
 <!-- CONTENT -->
+
+## Text databases
+
+- [TITUS](https://titus.uni-frankfurt.de/indexe.htm)
+- [SARIT](https://sarit.indology.info/sarit-pm/works/)
 
 ## Original text only
 
