@@ -58,6 +58,10 @@ Sanskrit is a language.
 ## Dictionaries
 - [Monier-Williams](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php) - Online Monier-Williams Sanskrit-English Dictionary, 1899
 
+
+## Other languages
+- [Project Madurai](https://www.projectmadurai.org/)
+
 <!-- END CONTENT -->
 
 ## Follow
